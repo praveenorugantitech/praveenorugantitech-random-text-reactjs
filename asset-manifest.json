@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-random-text-reactjs/static/css/main.07739ef9.chunk.css",
+    "main.js": "/praveenorugantitech-random-text-reactjs/static/js/main.3c28af21.chunk.js",
+    "main.js.map": "/praveenorugantitech-random-text-reactjs/static/js/main.3c28af21.chunk.js.map",
+    "runtime-main.js": "/praveenorugantitech-random-text-reactjs/static/js/runtime-main.8d2f7d4f.js",
+    "runtime-main.js.map": "/praveenorugantitech-random-text-reactjs/static/js/runtime-main.8d2f7d4f.js.map",
+    "static/js/2.7f48844b.chunk.js": "/praveenorugantitech-random-text-reactjs/static/js/2.7f48844b.chunk.js",
+    "static/js/2.7f48844b.chunk.js.map": "/praveenorugantitech-random-text-reactjs/static/js/2.7f48844b.chunk.js.map",
+    "index.html": "/praveenorugantitech-random-text-reactjs/index.html",
+    "static/css/main.07739ef9.chunk.css.map": "/praveenorugantitech-random-text-reactjs/static/css/main.07739ef9.chunk.css.map",
+    "static/js/2.7f48844b.chunk.js.LICENSE.txt": "/praveenorugantitech-random-text-reactjs/static/js/2.7f48844b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d2f7d4f.js",
+    "static/js/2.7f48844b.chunk.js",
+    "static/css/main.07739ef9.chunk.css",
+    "static/js/main.3c28af21.chunk.js"
+  ]
+}
