@@ -157,10 +157,16 @@ export default function Content() {
           <TextField
             id="outlined-basic"
             className={classes.textField}
-            label="Paragraphs"
+            helperText="Paragraphs"
             margin="normal"
             variant="outlined"
             type="number"
+            InputProps={{
+              inputProps: {
+                max: 15,
+                min: 1,
+              },
+            }}
             onChange={numberOfParagraphs}
             style={{ alignItems: "center" }}
           />
@@ -210,7 +216,7 @@ export default function Content() {
       </Typography>
       <div>
         <Paper className={classes.root} square={false}>
-          <Typography><pre>{data}</pre></Typography>
+          <pre>{data}</pre>
         </Paper>
       </div>
     </div>
