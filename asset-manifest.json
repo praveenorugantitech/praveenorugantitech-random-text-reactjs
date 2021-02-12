@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/praveenorugantitech-random-text-reactjs/static/css/main.cb5adf97.chunk.css",
-    "main.js": "/praveenorugantitech-random-text-reactjs/static/js/main.f066b9d8.chunk.js",
-    "main.js.map": "/praveenorugantitech-random-text-reactjs/static/js/main.f066b9d8.chunk.js.map",
+    "main.js": "/praveenorugantitech-random-text-reactjs/static/js/main.6b2fa94c.chunk.js",
+    "main.js.map": "/praveenorugantitech-random-text-reactjs/static/js/main.6b2fa94c.chunk.js.map",
     "runtime-main.js": "/praveenorugantitech-random-text-reactjs/static/js/runtime-main.8d2f7d4f.js",
     "runtime-main.js.map": "/praveenorugantitech-random-text-reactjs/static/js/runtime-main.8d2f7d4f.js.map",
     "static/js/2.7f48844b.chunk.js": "/praveenorugantitech-random-text-reactjs/static/js/2.7f48844b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8d2f7d4f.js",
     "static/js/2.7f48844b.chunk.js",
     "static/css/main.cb5adf97.chunk.css",
-    "static/js/main.f066b9d8.chunk.js"
+    "static/js/main.6b2fa94c.chunk.js"
   ]
 }
