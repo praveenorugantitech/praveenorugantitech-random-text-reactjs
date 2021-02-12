@@ -1,5 +1,8 @@
 # Random Text Generator developed using React JS, litipsum API and Material UI
 
+### API
+[https://litipsum.com/api/pride-and-prejudice/](https://litipsum.com/api/pride-and-prejudice/)
+
 ### App Screenshots
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-random-text-reactjs/master/src/images/screenshot.PNG)
