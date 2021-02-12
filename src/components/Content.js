@@ -127,11 +127,13 @@ export default function Content() {
         const response = await axios.get(
           "https://litipsum.com/api/pride-and-prejudice/" + params + "/p"
         );
+
         setData(response.data);
       } else {
         const response = await axios.get(
           "https://litipsum.com/api/pride-and-prejudice/" + params
         );
+
         setData(response.data);
       }
     } catch (error) {
@@ -141,7 +143,6 @@ export default function Content() {
   useEffect(() => {
     getUser();
   }, [params, html]);
-  // getUser();
   return (
     <div>
       <Typography
@@ -209,7 +210,7 @@ export default function Content() {
       </Typography>
       <div>
         <Paper className={classes.root} square={false}>
-          <Typography component="p">{data}</Typography>
+          <Typography><pre>{data}</pre></Typography>
         </Paper>
       </div>
     </div>
